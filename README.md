@@ -7,3 +7,6 @@ LEVELS uses the Dexcom G6 to monitor blood glucose levels throughout the day in 
 That said, I wanted to pull the data down and plot it myself as well. 
 
 If you are diabetic or pre-diabetic or just curious about how food effects your blood glucose levels, I highly recommend LEVELs and the Dexcom G6. 
+
+https://levelshealth.com
+https://www.dexcom.com/g6-cgm-system
